@@ -1,0 +1,16 @@
+Eric LaBouve
+Data301
+April 15th, 2016
+
+Warning: executing will take very very long
+
+To execute: 
+python tokenizer.py
+python compileAuthorVectors.py
+python subsetDocumentWeights.py
+python computeCosSim.py
+python computeTop40.py
+
+
+
+
