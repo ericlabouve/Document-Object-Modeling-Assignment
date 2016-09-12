@@ -3,6 +3,7 @@ Data301
 April 15th, 2016
 
 Warning: executing will take very very long
+Update: GitHub won't allow me to upload ALL the files needed to execute. So the program won't run at all. Sorry.
 
 To execute: 
 python tokenizer.py
